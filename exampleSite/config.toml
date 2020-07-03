@@ -86,7 +86,7 @@ enable = true
 preloader = "images/verticalLogo.png"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://www.linkedin.com/company/talentdeploy/"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
