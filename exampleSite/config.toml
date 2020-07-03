@@ -7,14 +7,14 @@ theme = "meghna-hugo"
 title = "Talent Deploy"
 [Languages.en]
 contentDir = "content/english"
-copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved"
+copyright = "copyright &copy; 2020 [TalentDeploy](https://talentdeploy.com.ar) all right reserved"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.fr]
+[Languages.es]
 contentDir = "content/french"
-copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) tous droits réservés"
+copyright = "copyright &copy; 2020 [TalentDeploy](https://talentdeploy.com.ar) todos los derechos reservados"
 home = "Home"
 languageCode = "es-ar"
 languageName = "Es"
@@ -46,7 +46,7 @@ URL = "contact"
 name = "contact"
 weight = 7
 [params]
-author = "Themefisher"
+author = "TalentDeploy"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 google_analytics_id = ""
 logo = "images/logo.png"
