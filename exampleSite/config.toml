@@ -13,7 +13,7 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.es]
-contentDir = "content/french"
+contentDir = "content/spanish"
 copyright = "copyright &copy; 2020 [TalentDeploy](https://talentdeploy.com.ar) todos los derechos reservados"
 home = "Home"
 languageCode = "es-ar"
