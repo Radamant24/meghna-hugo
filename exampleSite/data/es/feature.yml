@@ -7,10 +7,10 @@ feature:
   content: TalentDeploy nace en el corazón del rubro informático y su misión es proveer
     talento a las empresas mas importantes de la región
   feature_item:
-  - title: SEO Optimized
+  - title: Busquedas en todo el pais
     icon: ti-world
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: 'Las herramientas que desarrollamos nos permiten encontrar talento en
+      todas partes de Argentina! '
   - title: Perfiles a medida
     icon: ti-panel
     content: Nos importa que los candidatos no solo estén alineados técnica si no
