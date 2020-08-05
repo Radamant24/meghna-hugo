@@ -6,10 +6,9 @@ service:
   - name: Desarrollador WordPress
     icon: ti-world
     content: 'Requisitos: Wordpress ndeah xd'
-  - name: Responsive Design
+  - name: Responsive Design Engineer
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: 'Ni idea quejeso '
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
