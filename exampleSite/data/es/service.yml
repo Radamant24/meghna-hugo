@@ -1,11 +1,11 @@
 ---
 service:
   enable: true
-  title: Busquedas activas
+  title: Servicios
   service_item:
-  - name: Desarrollador WordPress
+  - name: " WordPress"
     icon: ti-world
-    content: 'Requisitos: Wordpress ndeah xd'
+    content: ":_"
   - name: Responsive Design Engineer
     icon: ti-layout
     content: 'Ni idea quejeso '

@@ -1,3 +1,4 @@
+---
 - id: blogTitle
   translation: Oportunidades Laborales
 - id: readMore
@@ -23,6 +24,6 @@
 - id: pricing
   translation: Tarification
 - id: blog
-  translation: Blog
+  translation: Oportunidades
 - id: contact
   translation: Contacto
