@@ -15,10 +15,10 @@ feature:
     icon: ti-panel
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
-  - title: SEO Optimized
+  - title: Reduccion de Falsos Positivos
     icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: Nuestro sistema nos permite reducir la cantidad de falsos positivos en
+      un 40%
   - title: Transparencia en las busquedas
     icon: ti-announcement
     content: Es parte de nuestro compromiso mantener a todo candidato informado sobre
