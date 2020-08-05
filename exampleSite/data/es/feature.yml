@@ -4,17 +4,17 @@ feature:
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
   title: Somos una startup dedicada al recruiting
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora
-    itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+  content: TalentDeploy nace en el corazón del rubro informático y su misión es proveer
+    talento a las empresas mas importantes de la región
   feature_item:
   - title: SEO Optimized
     icon: ti-world
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
-  - title: Easy Customization
+  - title: Perfiles a medida
     icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: Nos importa que los candidatos no solo estén alineados técnica si no
+      también culturalmente
   - title: Reduccion de Falsos Positivos
     icon: ti-stats-up
     content: Nuestro sistema nos permite reducir la cantidad de falsos positivos en
