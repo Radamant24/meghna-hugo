@@ -2,10 +2,8 @@
 contact:
   enable: true
   title: Contact Us
-  subtitle: Contact Details
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
-    provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
-    dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  subtitle: Detalles de contacto
+  content: 'No dudes en contactarnos! '
   contact_list:
   - icon: ti-location-pin
     info: Palermo, Buenos Aires, Argentina
@@ -18,8 +16,8 @@ contact:
   contact_form:
     enable: true
     form_action: "#"
-    name: votre nom
-    email: Votre email
-    subject: Matière
-    message: Message
-    submit: Soumettre
+    name: Su nombre
+    email: email
+    subject: Titulo
+    message: Mensaje
+    submit: Enviar!
