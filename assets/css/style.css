@@ -86,14 +86,12 @@ a:hover {
 }
 
 /*  -------------- Codigo propio  -------------- */
-@media (max-width: 980px) {
 
-  #landing-title {
-    visibility: hidden;
+  #landing-button {
+    margin-top: 300px;
   }
 
- }
-
+ 
 /*  -------------- Codigo propio  -------------- */
 
 .kill-margin-bottom {

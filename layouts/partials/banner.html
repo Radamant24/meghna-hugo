@@ -7,7 +7,7 @@
 	<!-- this image is for trigger this section fallback background image -->
 	<img class="lozad" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'" data-src="{{ .bg_image_webp | absURL }}" />
 
-	<div class="block">
+	<div class="block" id="landing-block">
 		{{ if .icon }}
 		<div class="video-button">
 			<i class="{{ .icon }}"></i>
