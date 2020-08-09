@@ -13,11 +13,10 @@
 			<i class="{{ .icon }}"></i>
 		</div>
 		{{ end }}
-		<h1 id="landing-title">{{ .title | markdownify }}</h1>
 		<p>{{ .content | markdownify }}</p>
 		{{ if .button.enable }}
 		{{ with .button }}
-		<a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>
+		<a href="{{ .link }}" class="landing-button btn btn-transparent page-scroll">{{ .label }}</a>
 		{{ end }}
 		{{ end }}
 	</div>
