@@ -16,7 +16,7 @@
 		<p>{{ .content | markdownify }}</p>
 		{{ if .button.enable }}
 		{{ with .button }}
-		<a href="{{ .link }}" class="landing-button btn btn-transparent page-scroll">{{ .label }}</a>
+		<a href="{{ .link }}" id="landing-button" class="btn btn-transparent page-scroll">{{ .label }}</a>
 		{{ end }}
 		{{ end }}
 	</div>
