@@ -89,7 +89,7 @@ a:hover {
 @media (max-width: 980px) {
 
   #landing-title {
-    display: hidden;
+    visibility: hidden;
   }
 
  }
@@ -452,6 +452,7 @@ a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-position: center;
 }
 
 .hero-area:before {
@@ -461,7 +462,6 @@ a:hover {
   right: 0;
   bottom: 0;
   left: 0;
-  background-position: center;
 }
 
 .hero-area .block {
