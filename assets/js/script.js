@@ -138,6 +138,4 @@ jQuery(function ($) {
 function greeting(coso){
 	console.log(coso)
 	console.log("hola")
-	return "Hola! "+coso
-
 }
