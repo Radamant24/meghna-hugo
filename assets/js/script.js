@@ -134,3 +134,10 @@ jQuery(function ($) {
 	});
 
 });
+
+function greeting(coso){
+	if(!coso)
+		coso = ""
+	return "Hola!"+coso
+
+}
