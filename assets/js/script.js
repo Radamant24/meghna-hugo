@@ -136,9 +136,8 @@ jQuery(function ($) {
 });
 
 function greeting(coso){
-	if(!coso)
-		coso = ""
-	console.log("Hola!"+coso)
-	return "Hola!"+coso
+	console.log(coso)
+	console.log("hola")
+	return "Hola! "+coso
 
 }
