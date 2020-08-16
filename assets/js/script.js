@@ -135,7 +135,17 @@ jQuery(function ($) {
 
 });
 
-function greeting(coso){
+async function greeting(name, email,subject, message){
+	if(!name || !email || !subject || !message)
+		return false
+	const response = await fetch("https://dolarhoy.com", {
+		method: 'POST',
+		headers: {
+		'Content-Type': 'application/json'
+		},
+		body: JSON.stringify({name, email, subject, message}) // body data type must match "Content-Type" header
+	});
+	console.log(response.json()) // parses JSON response into native JavaScript objects
 	console.log(coso)
 	console.log("hola")
 }
