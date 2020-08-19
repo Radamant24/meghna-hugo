@@ -18,6 +18,6 @@ contact:
     form_action: "#"
     name: Su nombre
     email: email
-    subject: Titulo
+    subject: Título
     message: Mensaje
     submit: Enviar!
