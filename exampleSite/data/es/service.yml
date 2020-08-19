@@ -9,10 +9,11 @@ service:
   - name: Responsive Design Engineer
     icon: ti-layout
     content: 'Ni idea quejeso '
-  - name: Media &amp; Advertisement
+  - name: Recruiting Tecnico
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: 'La mayoría de nuestros recruiters están capacitados tanto en área de
+      RRHH como técnicamente, lo que les hace posible llevar las entrevistas a un
+      nuevo nivel '
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
