@@ -12,7 +12,7 @@ service:
     icon: ti-package
     content: 'TalentDeploy se especializa en encontrar a las personas que las empresas
       realmente necesitan, parte de nuestra misión es saber orientarlos en la búsqueda '
-  - name: Busqueda creativa
+  - name: Búsqueda creativa
     icon: ti-palette
     content: Somos un mix de personas de IT y Recruiters, Combinando los dos mundos
       logramos encontrar nuevas maneras de captar talento con herramientas desarrolladas
