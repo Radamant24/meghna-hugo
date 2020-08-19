@@ -138,7 +138,7 @@ jQuery(function ($) {
 async function greeting(name, email,subject, message){
 	if(!name || !email || !subject || !message)
 		return false
-	const response = await fetch("https://dolarhoy.com", {
+	const response = await fetch("https://douulhx414.execute-api.us-east-1.amazonaws.com/dev/contact-site", {
 		method: 'POST',
 		headers: {
 		'Content-Type': 'application/json'
