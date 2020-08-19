@@ -3,25 +3,26 @@ service:
   enable: true
   title: Servicios
   service_item:
+  - name: Recruiting Tecnico
+    icon: ti-blackboard
+    content: 'La mayoría de nuestros recruiters están capacitados tanto en área de
+      RRHH como técnicamente, lo que les hace posible llevar las entrevistas a un
+      nuevo nivel '
+  - name: Asesoramiento a empresas
+    icon: ti-package
+    content: 'TalentDeploy se especializa en encontrar a las personas que las empresas
+      realmente necesitan, parte de nuestra misión es saber orientarlos en la búsqueda '
   - name: " WordPress"
     icon: ti-world
     content: ":_"
   - name: Responsive Design Engineer
     icon: ti-layout
     content: 'Ni idea quejeso '
-  - name: Recruiting Tecnico
-    icon: ti-blackboard
-    content: 'La mayoría de nuestros recruiters están capacitados tanto en área de
-      RRHH como técnicamente, lo que les hace posible llevar las entrevistas a un
-      nuevo nivel '
-  - name: Graphic Design
+  - name: Busqueda creativa
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Asesoramiento a empresas
-    icon: ti-package
-    content: 'TalentDeploy se especializa en encontrar a las personas que las empresas
-      realmente necesitan, parte de nuestra misión es saber orientarlos en la búsqueda '
+    content: Somos un mix de personas de IT y Recruiters, Combinando los dos mundos
+      logramos encontrar nuevas maneras de captar talento con herramientas desarrolladas
+      internamente
   - name: Networking
     icon: ti-pulse
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
