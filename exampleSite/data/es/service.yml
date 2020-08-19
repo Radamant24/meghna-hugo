@@ -3,7 +3,7 @@ service:
   enable: true
   title: Servicios
   service_item:
-  - name: Recruiting Tecnico
+  - name: Recruiting técnico
     icon: ti-blackboard
     content: 'La mayoría de nuestros recruiters están capacitados tanto en área de
       RRHH como técnicamente, lo que les hace posible llevar las entrevistas a un
