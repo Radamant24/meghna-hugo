@@ -15,7 +15,7 @@ feature:
     icon: ti-panel
     content: Nos importa que los candidatos no solo estén alineados técnica si no
       también culturalmente
-  - title: Reduccion de Falsos Positivos
+  - title: Reducción de Falsos Positivos
     icon: ti-stats-up
     content: Nuestro sistema nos permite reducir la cantidad de falsos positivos en
       un 40%
