@@ -3,7 +3,7 @@ feature:
   enable: true
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
-  title: Somos una startup dedicada al recruiting
+  title: Una startup dedicada al recruiting
   content: TalentDeploy nace en el corazón del rubro informático y su misión es proveer
     talento a las empresas mas importantes de la región
   feature_item:
