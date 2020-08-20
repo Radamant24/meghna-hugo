@@ -1,5 +1,5 @@
 ---
-title: PIJAS LOCAS
+title: Random
 image: ''
 email: email2@example.org
 social:
