@@ -47,7 +47,7 @@ name = "contact"
 weight = 7
 [params]
 author = "TalentDeploy"
-description = "Responsive Multipurpose Parallax HTML5 Template"
+description = "TalentDeploy is a talent acquisition partner that helps companies hire top candidates. We deliver value by using technology as a bridge, performing technical interviews and also accompanying and giving insights to partners to reach their ideal employee profile target"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
