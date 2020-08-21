@@ -9,7 +9,7 @@ service:
       to take the interviews to the next level.
   - name: Recruitment counseling
     icon: ti-package
-    content: TalentDeploy specializes in finding the right candidates that fit the
+    content: TalentDeploy specializes in finding the right candidates that fit your
       business needs, part of our mission is to counsel companies to establish their
       ideal employee target.
   - name: Creative search
