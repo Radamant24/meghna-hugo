@@ -7,7 +7,7 @@ service:
     icon: ti-blackboard
     content: 'Nuestros recruiters están capacitados tanto en área de RRHH como técnicamente,
       lo que les hace posible llevar las entrevistas a un nuevo nivel '
-  - name: Recruitment counseling
+  - name: Asesoramiento a empresas
     icon: ti-package
     content: TalentDeploy se especializa en encontrar a las personas que las empresas
       realmente necesitan, parte de nuestra misión es saber orientarlos en la búsqueda.

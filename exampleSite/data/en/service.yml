@@ -7,10 +7,11 @@ service:
     icon: ti-blackboard
     content: Our recruiters have both headhunting and technical skills, enabling them
       to take the interviews to the next level.
-  - name: Responsive Design
-    icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Recruitment counseling
+    icon: ti-package
+    content: TalentDeploy specializes in finding the right candidates that fit the
+      business needs, part of our mission is to counsel companies to establish their
+      ideal employee target.
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
