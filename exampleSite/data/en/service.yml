@@ -16,7 +16,7 @@ service:
     icon: ti-palette
     content: Our team is composed of both IT Engineers and Recruiters, by combining
       both points of view and making use of our own internally developed tools, we
-      found new ways to search for talented individuals.
+      found new ways to search for talent.
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
