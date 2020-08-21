@@ -5,9 +5,8 @@ service:
   service_item:
   - name: Recruiting técnico
     icon: ti-blackboard
-    content: 'La mayoría de nuestros recruiters están capacitados tanto en área de
-      RRHH como técnicamente, lo que les hace posible llevar las entrevistas a un
-      nuevo nivel '
+    content: 'Nuestros recruiters están capacitados tanto en área de RRHH como técnicamente,
+      lo que les hace posible llevar las entrevistas a un nuevo nivel '
   - name: Asesoramiento a empresas
     icon: ti-package
     content: 'TalentDeploy se especializa en encontrar a las personas que las empresas
