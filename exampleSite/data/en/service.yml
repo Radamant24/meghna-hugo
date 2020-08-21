@@ -12,10 +12,11 @@ service:
     content: TalentDeploy specializes in finding the right candidates that fit the
       business needs, part of our mission is to counsel companies to establish their
       ideal employee target.
-  - name: Media &amp; Advertisement
-    icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Creative search
+    icon: ti-palette
+    content: Our team is composed of both IT Engineers and Recruiters, by combining
+      both points of view and making use of our own internally developed tools, we
+      found new ways to search for talented individuals.
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
