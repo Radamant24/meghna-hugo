@@ -12,10 +12,11 @@ feature:
     content: 'The tools we develop allow us to find talent everywhere in Argentina!
 
 '
-  - title: Easy Customization
+  - title: Custom profiles
     icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: 'We care that candidates are not only technically aligned but also culturally
+
+'
   - title: SEO Optimized
     icon: ti-stats-up
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
