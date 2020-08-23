@@ -17,10 +17,11 @@ feature:
     content: 'We care that candidates are not only technically aligned but also culturally
 
 '
-  - title: SEO Optimized
+  - title: Reduction of False Positives
     icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: 'Our system allows us to reduce the number of false positives by 40%
+
+'
   - title: Easy Customization
     icon: ti-announcement
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
