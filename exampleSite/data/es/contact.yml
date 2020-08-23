@@ -9,8 +9,6 @@ contact:
     info: Palermo, Buenos Aires, Argentina
   - icon: ti-mobile
     info: 'Phone: +54 9 11 6112 4492'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
   - icon: ti-email
     info: 'Email: Contact@talentdeploy.com'
   contact_form:
