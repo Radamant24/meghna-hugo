@@ -1,4 +1,4 @@
-baseURL = "https://hugordito.netlify.app"
+baseURL = "https://talentdeploy.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
