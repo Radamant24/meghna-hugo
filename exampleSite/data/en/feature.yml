@@ -22,7 +22,7 @@ feature:
     content: 'Our system allows us to reduce the number of false positives by 40%
 
 '
-  - title: Easy Customization
-    icon: Transparency in searches
+  - title: Transparent searches
+    icon: ti-announcement
     content: It is part of our commitment to keep every candidate informed about the
       searches in which they are participating
