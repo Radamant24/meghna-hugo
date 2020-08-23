@@ -7,10 +7,11 @@ feature:
   content: TalentDeploy was born in the heart of the IT industry and its mission is
     to provide talent to the most important companies in the region
   feature_item:
-  - title: SEO Optimized
+  - title: Searches across the country
     icon: ti-world
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: 'The tools we develop allow us to find talent everywhere in Argentina!
+
+'
   - title: Easy Customization
     icon: ti-panel
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
