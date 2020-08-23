@@ -1,4 +1,4 @@
-baseURL = "https://www.talentdeploy.com.ar"
+baseURL = "https://talentdeploy.com.ar"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
