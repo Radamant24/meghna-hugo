@@ -1,11 +1,11 @@
 baseURL = "https://www.talentdeploy.com.ar"
 disableLanguages = []
 disqusShortname = ""
-DefaultContentLanguage = "es"
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 title = "Talent Deploy"
+DefaultContentLanguage = "es"
 [Languages.es]
 contentDir = "content/spanish"
 copyright = "copyright &copy; 2020 [TalentDeploy](https://talentdeploy.com.ar) todos los derechos reservados"

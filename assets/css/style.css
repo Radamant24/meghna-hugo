@@ -561,6 +561,7 @@ a:hover {
   border-bottom: 2px solid transparent;
   transition: .5s all;
   margin-bottom: 20px;
+  height:510px;
 }
 
 .about .block:hover {
@@ -960,6 +961,7 @@ a:hover {
   border-top: 1px solid rgba(236, 239, 241, 0.07);
   margin-bottom: 40px;
   box-shadow: 2px 2px 5px rgba(44, 44, 44, 0.3), 13px 13px 0 rgba(255, 255, 255, 0.7);
+  height:393px;
 }
 
 .service-block .service-icon {
