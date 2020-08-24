@@ -6,15 +6,16 @@
   HUGO_VERSION = "0.71.1"
   HUGO_THEME = "repo"
 
-[[headers]]
-  # Define which paths this specific [[headers]] block will cover.
-  for = "/*"
-    [headers.values]
-    Access-Control-Allow-Origin = "*"
+[[redirects]]
+  from = "https://talentdeploy.com.ar"
+  to = "https://www.talentdeploy.com.ar"
+  status = 301
+  force = true
+  headers = {X-From = "Netlify"}
 
 [[redirects]]
-  from = "https://www.talentdeploy.com.ar"
-  to = "https://talentdeploy.com.ar"
-  status = 200
+  from = "https://talentdeploy.com.ar/"
+  to = "https://www.talentdeploy.com.ar"
+  status = 301
   force = true
   headers = {X-From = "Netlify"}
