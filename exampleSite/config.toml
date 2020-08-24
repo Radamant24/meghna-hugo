@@ -5,13 +5,6 @@ paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 title = "Talent Deploy"
-[Languages.en]
-contentDir = "content/english"
-copyright = "copyright &copy; 2020 [TalentDeploy](https://talentdeploy.com.ar) all right reserved"
-home = "Home"
-languageCode = "en-us"
-languageName = "En"
-weight = "2"
 [Languages.es]
 contentDir = "content/spanish"
 copyright = "copyright &copy; 2020 [TalentDeploy](https://talentdeploy.com.ar) todos los derechos reservados"
@@ -19,6 +12,13 @@ home = "Home"
 languageCode = "es-ar"
 languageName = "Es"
 weight = "1"
+[Languages.en]
+contentDir = "content/english"
+copyright = "copyright &copy; 2020 [TalentDeploy](https://talentdeploy.com.ar) all right reserved"
+home = "Home"
+languageCode = "en-us"
+languageName = "En"
+weight = "2"
 [menu]
 static = []
 [[menu.main]]
