@@ -5,7 +5,6 @@
 $(window).on('load', function () {
 	$('.preloader').fadeOut(100);
 });
-window.location.replace("http://www.w3schools.com");
 
 jQuery(function ($) {
 	"use strict";
