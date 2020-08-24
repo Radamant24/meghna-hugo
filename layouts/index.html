@@ -33,6 +33,9 @@
 {{ end }}
 
 <script>
-window.location.replace("http://talentdeploy.com.ar");
+    console.log(window.location.href)
+    if(window.location.href.split(".ar")[0] !== "https://talentdeploy.com"){
+        window.location.replace("https://talentdeploy.com.ar");
+    }
     
 </script>
