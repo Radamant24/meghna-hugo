@@ -8,5 +8,5 @@ banner:
   content: ''
   button:
     enable: true
-    label: Explore Us
+    label: Conocé más
     link: "#services"
