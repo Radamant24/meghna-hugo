@@ -91,6 +91,13 @@ a:hover {
   margin-top: 300px;
 }
 
+.article-image {
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
  
 /*  -------------- Codigo propio  -------------- */
 
