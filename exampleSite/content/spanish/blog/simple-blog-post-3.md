@@ -1,6 +1,6 @@
 ---
 title: DevOps ssr/sr Belgrano
-date: 2018-09-12T12:52:36.000+06:00
+date: 2020-08-19T03:52:36-03:00
 image_webp: "/images/images.png"
 image: "/images/images.png"
 author: TalentDeploy
