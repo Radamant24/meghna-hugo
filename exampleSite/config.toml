@@ -84,8 +84,5 @@ link = "https://www.linkedin.com/company/talentdeploy/"
 icon = "ti-twitter-alt"
 link = "https://twitter.com/TalentDeploy"
 [[params.social]]
-icon = "ti-youtube"
-link = "#"
-[[params.social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/company/talentdeploy/"
