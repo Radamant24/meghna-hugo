@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image_webp: images/backgrounds/home.webp
-  bg_image: images/backgrounds/home.jpg
+  bg_image: images/backgrounds/home.png
   icon: ''
   title: Hire like never before
   content: ''
