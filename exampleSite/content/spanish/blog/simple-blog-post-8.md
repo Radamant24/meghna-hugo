@@ -1,14 +1,14 @@
 ---
 title: Desarrollador Node JS
-date: 2018-09-12T14:51:12.000+06:00
+date: 2020-07-31T05:51:12-03:00
 image_webp: "/images/node-js_logo.svg"
 image: "/images/node-js_logo.svg"
-author: John Doe
+author: TalentDeploy
 description: This is meta description
 
 ---
-Se busca desarrollador Node JS SSR
+buscamos desarrollador Node JS SSR
 
 Area: palermo soho
 
-Requisitos: Javascript, Redis, MongoDB
+Requisitos: NodeJs, Redis, MongoDB, graphql, conocimientos de aws y metodologias agiles
