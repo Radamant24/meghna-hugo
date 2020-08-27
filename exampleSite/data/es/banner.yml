@@ -9,4 +9,4 @@ banner:
   button:
     enable: true
     label: Conocé más
-    link: "#services"
+    link: "#about"
