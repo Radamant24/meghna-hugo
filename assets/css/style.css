@@ -625,14 +625,14 @@ a:hover {
   border-left: 2px solid rgba(236, 239, 241, 0.07);
 }
 
-.about .block .icon-box:before:hover {
+.about .block .icon-box:hover:before {
   top: -56.5685px;
 
   border-top: 2px solid rgba(58, 172, 134, 0.7);
   border-right: 2px solid rgba(58, 172, 134, 0.7);
 }
 
-.about .block .icon-box:after:hover {
+.about .block .icon-box:hover:after {
   bottom: -56.5685px;
 
   border-bottom: 2px solid rgba(58, 172, 134, 0.7);
