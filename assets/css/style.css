@@ -575,7 +575,7 @@ a:hover {
   border-bottom: 2px solid #3AAC86;
 }
 
-.about .block:hover .icon-box {
+.about .block .icon-box:hover {
   -webkit-transform: translateY(-10px);
   transform: translateY(-10px);
   border-left: 2px solid rgba(58, 172, 134, 0.7);
