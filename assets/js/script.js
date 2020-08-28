@@ -144,7 +144,5 @@ async function greeting(name, email,subject, message){
 		},
 		body: JSON.stringify({name, email, subject, message}) // body data type must match "Content-Type" header
 	});
-	console.log(response.json()) // parses JSON response into native JavaScript objects
-	console.log(coso)
-	console.log("holaa")
+	return response
 }
