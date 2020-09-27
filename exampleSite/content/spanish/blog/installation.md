@@ -1,5 +1,5 @@
 ---
-title: DevOps ssr/sr Belgrano
+title: DevOps SSr/Sr Belgrano
 date: 2020-08-19T03:52:00.000-03:00
 author: TalentDeploy
 image_webp: "/images/unnamed.webp"
