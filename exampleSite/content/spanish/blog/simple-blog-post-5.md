@@ -7,9 +7,6 @@ author: TalentDeploy
 description: ''
 
 ---
-**Sobre la empresa:**
-
-Startup de servicios de transporte de personas, utilizan Machine Learning y Deep Learning y están en un constante proceso de modernización adoptando practicas de DevOps e Infrastructura como código.
 
 **Conocimientos requeridos:**
 
@@ -18,6 +15,10 @@ Startup de servicios de transporte de personas, utilizan Machine Learning y Deep
 * DBs relacionales (PostgreSQL, MySQL)
 * Experiencia en CI/CD
 * Inglés avanzado
+
+**Sobre la empresa:**
+
+Startup de servicios de transporte de personas, utilizan Machine Learning y Deep Learning y están en un constante proceso de modernización adoptando practicas de DevOps e Infrastructura como código.
 
 **100% Remoto**
 
