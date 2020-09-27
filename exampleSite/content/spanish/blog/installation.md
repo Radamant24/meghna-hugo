@@ -1,19 +1,19 @@
 ---
 title: DevOps ssr/sr Belgrano
-date: 2020-08-19T03:52:00-03:00
+date: 2020-08-19T03:52:00.000-03:00
 author: TalentDeploy
-image_webp: "/images/images.png"
-image: "/images/images.png"
-description: This is meta description
+image_webp: "/images/unnamed.webp"
+image: "/images/unnamed.png"
+description: ''
 
 ---
-## Requisitos:
+### Requisitos:
 
-Cloud provider: AWS
+Cloud provider: AWS (Lambda, API Gateway, RDS, EC2)
 
-Algun conocimiento en CICD (GH Actions, Gitlab CICD, Jenkins)
+Conocimientos en CI/CD (GH Actions, Gitlab CI, Jenkins)
 
-IaC (Terraform o cloudformation)
+IaC (Terraform/CloudFormation)
 
 Configuration management
 
