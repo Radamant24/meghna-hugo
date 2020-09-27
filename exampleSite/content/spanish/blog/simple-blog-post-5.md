@@ -1,27 +1,24 @@
 ---
-title: Administrador de base de datos
-date: 2020-08-05T03:52:36-03:00
-image_webp: "/images/1-1fc2ddk1rywrv6ndw_ee_a.png"
-image: "/images/1-1fc2ddk1rywrv6ndw_ee_a.png"
+title: SSr Fullstack Dev
+date: 2020-09-23T08:52:00-03:00
+image_webp: "/images/whatsapp_image_2020-09-24_at_2-13-27_pm-removebg-preview.webp"
+image: "/images/whatsapp_image_2020-09-24_at_2-13-27_pm-removebg-preview.png"
 author: TalentDeploy
-description: This is meta description
+description: ''
 
 ---
-**Conocimientos y experiencia requeridos:**
+**Sobre la empresa:**
 
-* Experiencia en la configuración de bases de datos Oracle en Unix/Windows.
-* Cambios de esquema, administración de parches y respaldo.
-* Cambios de esquema, administración de parches y respaldo.
-* Experiencia en la configuración de ASM y en la migración a ASM.
-* Experiencia en la instalación y administración de RACs
-* Clonacion base de datos usando data pump o la RMAN
-* Conocimiento en Oracle 11g & 12c.
-* Database Migrations/Upgradations.
-* Haber trabajado con herramientas tales como: OEM, SQLPlus, **SQLDeveloper.**
-* Backup y recovery
-* Conocimientos en Linux /Aix.
-* Concimientos en My SQL
+Startup de servicios de transporte de personas, utilizan Machine Learning y Deep Learning y están en un constante proceso de modernización adoptando practicas de DevOps e Infrastructura como código.
 
-**Lugar de trabajo**: Palermo
+**Conocimientos requeridos:**
+
+* Java + Spring Boot
+* Javascript + React.js
+* DBs relacionales (PostgreSQL, MySQL)
+* Experiencia en CI/CD
+* Inglés avanzado
+
+**100% Remoto**
 
 **Horario**: De lunes a viernes de 9-18hs
