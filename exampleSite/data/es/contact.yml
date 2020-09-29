@@ -10,7 +10,7 @@ contact:
   - icon: ti-mobile
     info: 'Phone: +54 9 11 6112 4492'
   - icon: ti-email
-    info: 'Email: Contact@talentdeploy.com'
+    info: 'Email: Contact@talentdeploy.com.ar'
   contact_form:
     enable: true
     form_action: "#"
