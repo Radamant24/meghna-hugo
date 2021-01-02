@@ -135,7 +135,6 @@ jQuery(function ($) {
 });
 
 async function submitContact(name, email,subject, message){
-	var response = grecaptcha.getResponse();
 
 	if(!name || !email || !subject || !message || grecaptcha.getResponse().length == 0 )
 		return false
