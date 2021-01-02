@@ -134,8 +134,10 @@ jQuery(function ($) {
 
 });
 
-async function greeting(name, email,subject, message){
-	if(!name || !email || !subject || !message)
+async function submitContact(name, email,subject, message){
+	var response = grecaptcha.getResponse();
+
+	if(!name || !email || !subject || !message || grecaptcha.getResponse().length == 0 )
 		return false
 	const response = await fetch("https://douulhx414.execute-api.us-east-1.amazonaws.com/dev/contact-site", {
 		method: 'POST',

@@ -41,7 +41,7 @@
 			{{ if .contact_form.enable }}
 			{{ with .contact_form }}
 			<div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-				<form id="contact-form" class="form-meghna" method="post" onsubmit="greeting(this.name.value, this.email.value, this.subject.value, this.message.value);return false" role="form">
+				<form id="contact-form" class="form-meghna" method="post" onsubmit="submitContact(this.name.value, this.email.value, this.subject.value, this.message.value);return false" role="form">
 					<div class="form-group">
 						<input type="text" placeholder="{{ .name }}" minlength="5" class="form-control" name="name" id="name">
 					</div>
@@ -55,7 +55,8 @@
 						<textarea rows="6" placeholder="{{ .message }}" minlength="15" class="form-control" name="message" id="message"></textarea>
 					</div>
 					<div id="cf-submit">
-						<div class="g-recaptcha" data-sitekey="6LcyXh0aAAAAAPS_ihh1eMbz9UvSktwFpSB3oIRk"></div>
+						<div class="g-recaptcha" data-sitekey="6LcyXh0aAAAAAPS_ihh1eMbz9UvSktwFpSB3oIRk"
+						 data-theme="dark"></div>
 						<br/>
 				  
 						<button type="submit" id="contact-submit" class="btn btn-transparent btn-block" value="{{ .submit }}">{{ .submit }}</button>
