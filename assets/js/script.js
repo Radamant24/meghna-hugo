@@ -136,12 +136,12 @@ jQuery(function ($) {
 
 async function submitContact(name, email,subject, message){
 
-	let message=""
+	let toastMessage=""
 
 
 
 	if(!name || !email || !subject || !message || grecaptcha.getResponse().length == 0 ) {
-		message="The form is missing fields"
+		toastMessage="The form is missing fields"
 		return false
 	}
 	const response = await fetch("https://douulhx414.execute-api.us-east-1.amazonaws.com/dev/contact-site", {
@@ -151,16 +151,18 @@ async function submitContact(name, email,subject, message){
 		},
 		body: JSON.stringify({name, email, subject, message}) // body data type must match "Content-Type" header
 	});
+
 	grecaptcha.reset()
+	
 	if(response.status === 200) {
-		message="Success!"
+		toastMessage="Success!"
 	}
 	else {
-		message="Message couldn't be sent, try again later"
+		toastMessage="Message couldn't be sent, try again later"
 	}
 
 	let myToast = Toastify({
-		text: message,
+		text: toastMessage,
 		offset: { x: 0, y: 50 },
 		duration: 2500,
 		backgroundColor: "linear-gradient(135deg,#00756D, #3AAC86)"
