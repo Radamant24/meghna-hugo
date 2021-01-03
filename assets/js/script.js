@@ -142,6 +142,7 @@ async function submitContact(name, email,subject, message){
 
 	if(!name || !email || !subject || !message || grecaptcha.getResponse().length == 0 ) {
 		toastMessage="The form is missing fields"
+		invokeToast(toastMessage)
 		return false
 	}
 	const response = await fetch("https://douulhx414.execute-api.us-east-1.amazonaws.com/dev/contact-site", {
@@ -153,7 +154,7 @@ async function submitContact(name, email,subject, message){
 	});
 
 	grecaptcha.reset()
-	
+
 	if(response.status === 200) {
 		toastMessage="Success!"
 	}
@@ -161,6 +162,12 @@ async function submitContact(name, email,subject, message){
 		toastMessage="Message couldn't be sent, try again later"
 	}
 
+	invokeToast(toastMessage)
+
+	return response
+}
+
+async function invokeToast( message){
 	let myToast = Toastify({
 		text: toastMessage,
 		offset: { x: 0, y: 50 },
@@ -169,8 +176,12 @@ async function submitContact(name, email,subject, message){
 	   })
 
 	myToast.showToast();
-	return response
 }
+
+
+
+
+// TOAST ****************************
 
 /*!
  * Toastify js 1.9.3
