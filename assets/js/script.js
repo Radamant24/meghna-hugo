@@ -138,7 +138,7 @@ async function submitContact(name, email,subject, message){
 
 	var myToast = Toastify({
 		text: "This is a toast message",
-		offset: { x: 100, y: 0 },
+		offset: { x: 0, y: -100 },
 		duration: 5000
 	   })
 
