@@ -136,13 +136,14 @@ jQuery(function ($) {
 
 async function submitContact(name, email,subject, message){
 
-		Toastify({
-		  text: "Hello!",
-		  gravity: "top",
-		  position: 'center',
-		  backgroundColor: "#0f3443",
-		}).showToast();
+	var myToast = Toastify({
+		text: "This is a toast message",
+		duration: 5000
+	   })
 
+	myToast.showToast();
+
+	
 	if(!name || !email || !subject || !message || grecaptcha.getResponse().length == 0 )
 		return false
 	const response = await fetch("https://douulhx414.execute-api.us-east-1.amazonaws.com/dev/contact-site", {
