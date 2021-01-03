@@ -138,8 +138,8 @@ async function submitContact(name, email,subject, message){
 
 	var myToast = Toastify({
 		text: "This is a toast message",
-		offset: { x: 0, y: 100 },
-		duration: 5000
+		offset: { x: 0, y: 50 },
+		duration: 2500
 	   })
 
 	myToast.showToast();
@@ -154,6 +154,7 @@ async function submitContact(name, email,subject, message){
 		},
 		body: JSON.stringify({name, email, subject, message}) // body data type must match "Content-Type" header
 	});
+	console.log({response})
 	return response
 }
 
