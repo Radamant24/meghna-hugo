@@ -40,3 +40,7 @@
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify | fingerprint "sha384"}}
 <script src="{{ $script.Permalink }}" integrity="{{ $script.Data.Integrity }}"></script>
+
+{{ "<!-- Toast Script -->" | safeHTML }}
+{{ $toast := resources.Get "js/toastify.js" | minify | fingerprint "sha384"}}
+<script src="{{ $toast.Permalink }}" integrity="{{ $toast.Data.Integrity }}"></script>
