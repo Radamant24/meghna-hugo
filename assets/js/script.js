@@ -169,7 +169,7 @@ async function submitContact(name, email,subject, message){
 
 async function invokeToast( message){
 	let myToast = Toastify({
-		text: toastMessage,
+		text: message,
 		offset: { x: 0, y: 50 },
 		duration: 2500,
 		backgroundColor: "linear-gradient(135deg,#00756D, #3AAC86)"
