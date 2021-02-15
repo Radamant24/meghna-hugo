@@ -2,8 +2,8 @@
 title: DevOps ssr/sr Belgrano
 date: 2020-08-19T05:51:12-03:00
 author: TalentDeploy
-image_webp: "/images/images.png"
-image: "/images/images.png"
+image_webp: "/images/unnamed.webp"
+image: "/images/unnamed.png"
 description: This is meta description
 
 ---
