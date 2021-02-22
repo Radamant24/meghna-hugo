@@ -5,7 +5,7 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "Talent Deploy"
+title = "TalentDeploy"
 [Languages.en]
 contentDir = "content/english"
 copyright = "copyright &copy; 2020 [TalentDeploy](https://talentdeploy.com.ar) all right reserved"
