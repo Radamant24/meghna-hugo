@@ -3,10 +3,10 @@ service:
   enable: true
   title: Our Services
   service_item:
-  - name: Technical Recruitment
+  - name: IT Sourcing
     icon: ti-blackboard
-    content: Our recruiters have both headhunting and technical skills, enabling them
-      to take the interviews to the next level.
+    content: We source the best IT professionals from Argentina and Latin America to help your business move forward.
+      We perform technical interviews and provide insightful reports to streamline your hiring process.
   - name: Recruitment counseling
     icon: ti-package
     content: TalentDeploy specializes in finding the right candidates that fit your
