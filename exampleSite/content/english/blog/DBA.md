@@ -1,6 +1,6 @@
 ---
-title: Database Administrador
-date: 2020-08-05T03:52:00-03:00
+title: Database Administrator
+date: 2020-08-05T03:52:00.000-03:00
 image_webp: "/images/1-1fc2ddk1rywrv6ndw_ee_a.png"
 image: "/images/1-1fc2ddk1rywrv6ndw_ee_a.png"
 author: TalentDeploy
