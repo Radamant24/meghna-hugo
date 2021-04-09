@@ -3,13 +3,14 @@ feature:
   enable: true
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
-  title: A startup dedicated to recruiting
-  content: TalentDeploy is a sourcing company born in the heart of the IT industry and its mission is
-    to provide talent to the most important companies of the industry.
+  title: A startup dedicated to sourcing
+  content: TalentDeploy is a sourcing company born in the heart of the IT industry
+    and its mission is to provide talent to the most important companies of the industry.
   feature_item:
   - title: Searches across the country
     icon: ti-world
-    content: 'The tools we developed allow us to find top talent from Argentina and Latin America!
+    content: 'The tools we developed allow us to find top talent from Argentina and
+      Latin America!
 
 '
   - title: Custom profiles
@@ -19,7 +20,8 @@ feature:
 '
   - title: Optimized for success
     icon: ti-stats-up
-    content: 'We source extremely talented and cost-effective engineers to help your company succeed.
+    content: 'We source extremely talented and cost-effective engineers to help your
+      company succeed.
 
 '
   - title: Transparent searches
