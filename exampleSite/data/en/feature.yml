@@ -3,7 +3,7 @@ feature:
   enable: true
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
-  title: A startup dedicated to sourcing
+  title: A Startup dedicated to Sourcing
   content: TalentDeploy is a sourcing company born in the heart of the IT industry
     and its mission is to provide talent to the most important companies of the industry.
   feature_item:
