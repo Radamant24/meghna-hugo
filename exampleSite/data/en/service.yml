@@ -5,14 +5,15 @@ service:
   service_item:
   - name: IT Sourcing
     icon: ti-blackboard
-    content: We source the best IT professionals from Argentina and Latin America to help your business move forward.
-      We perform technical interviews and provide insightful reports to streamline your hiring process.
+    content: We source the best IT professionals from Argentina and Latin America
+      to help your business move forward. We perform technical interviews and provide
+      insightful reports to streamline your hiring process.
   - name: Recruitment counseling
     icon: ti-package
     content: TalentDeploy specializes in finding the right candidates that fit your
       business needs, part of our mission is to counsel companies to establish their
       ideal employee target.
-  - name: Creative search
+  - name: Creative Search
     icon: ti-palette
     content: Our team is composed of both IT Engineers and Recruiters, by combining
       both points of view and making use of our own internally developed tools, we
