@@ -8,7 +8,7 @@ service:
     content: We source the best IT professionals from Argentina and Latin America
       to help your business move forward. We perform technical interviews and provide
       insightful reports to streamline your hiring process.
-  - name: Recruitment counseling
+  - name: Recruitment Counseling
     icon: ti-package
     content: TalentDeploy specializes in finding the right candidates that fit your
       business needs, part of our mission is to counsel companies to establish their
