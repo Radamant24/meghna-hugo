@@ -7,12 +7,10 @@ feature:
   content: TalentDeploy is a sourcing company born in the heart of the IT industry
     and its mission is to provide talent to the most important companies of the industry.
   feature_item:
-  - title: Searches across the country
+  - title: Searches from Argentina and the rest of the world
     icon: ti-world
-    content: 'The tools we developed allow us to find top talent from Argentina and
-      Latin America!
-
-'
+    content: We specialize in finding top talent from Argentina, home to extremely
+      talented and cost-effective engineers
   - title: Custom Profiles
     icon: ti-panel
     content: 'We care that candidates are not only technically aligned but also culturally.
